@@ -1,6 +1,6 @@
 GEOSYNK är ett program och bildskapningsverktyg med öppen källkod, skrivet i Python. 
 Programvaran generar bilder utifrån geofysiska resultat. Bilderna kan sedan anpassas till 
-längdprofiler skapade i AutoCAD. Programmet är gratis att ladda ner och att använda ("as it is"). För att 
+längdprofiler skapade i AutoCAD. Programmet är gratis att ladda ner och att använda ("som den är"). För att 
 installera GEOSYNK, följ installationsguiden nedan.  
  
 1. Se till att du har behörighet att göra ändringar i systeminställningarna innan du forts-ätter.
