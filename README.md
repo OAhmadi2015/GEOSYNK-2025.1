@@ -1,6 +1,22 @@
 GEOSYNK är ett program och bildskapningsverktyg med öppen källkod, skrivet i Python. 
 Programvaran generar bilder utifrån geofysiska resultat. Bilderna kan sedan anpassas till 
-längdprofiler skapade i AutoCAD. Programmet är gratis att ladda ner och att använda ("som den är"). För att 
+längdprofiler skapade i AutoCAD. 
+######################################################################################################
+
+GEOSYNK utvecklades inom ramen för FoU-projektet Samredovisning av geofysiska och geotekniska resultat.
+
+Projektledare: Omid Ahmadi (Bjerking AB)
+
+Projektgrupp: Sebastian Buntin (Bjerking AB), Jesper Alström (Bjerking AB), Olof Friberg (Tyréns), Mats Svensson (Tyréns).
+
+Projektet huvudsakligen finansierat av Svenska Geotekniska Föreningen (SGF) och även medfinansierat av Bjerking, Structorstiftelsen och Tyréns.
+
+Datum: 2023-2024
+
+Projektnummer: 522304.
+#######################################################################################################
+
+Programvaran är gratis att ladda ner och att använda ("som den är"). För att 
 installera GEOSYNK, följ installationsguiden nedan.  
  
 1. Se till att du har behörighet att göra ändringar i systeminställningarna innan du forts-ätter.
@@ -28,9 +44,4 @@ icon.ico för att förbättra dess synlighet och lättare hitta.
 6. Testa om programvaran fungerar som den ska genom att klicka på knapparna på huvudfönstret (se lathunden).
 
 
-GEOSYNK utvecklades inom ramen för FoU-projektet Samredovisning av geofysiska och geotekniska resultat.
-Projektledare: Omid Ahmadi (Bjerking AB)
-Projektgrupp: Sebastian Buntin (Bjerking AB), Jesper Alström (Bjerking AB), Olof Friberg (Tyréns), Mats Svensson (Tyréns).
-Projektet huvudsakligen finansierat av Svenska Geotekniska Föreningen (SGF) och även medfinansierat av Bjerking, Structorstiftelsen och Tyréns.
-Datum: 2023-2024
-Projektnummer: 522304.
+
