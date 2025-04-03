@@ -6,7 +6,7 @@ installera GEOSYNK, följ installationsguiden nedan.
 1. Se till att du har behörighet att göra ändringar i systeminställningarna innan du forts-ätter.
 Kontakta respektive IT-avdelning vid behov.
 
-2. Ladda ner installationsfilen GEOSYNK.zip till en lämplig mapp på din dator. 
+2. Ladda ner installationsfilen GEOSYNK 2025.1.zip till en lämplig mapp på din dator. 
 Sedan packa upp filen GEOSYNK.zip med hjälp av ett packningsprogram som Win-RAR
 eller 7-Zip.
 
